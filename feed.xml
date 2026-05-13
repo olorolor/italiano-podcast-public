@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Storie con Sofia</title>
+    <link>https://olorolor.github.io/italiano-podcast-public</link>
+    <atom:link href="https://olorolor.github.io/italiano-podcast-public/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>it</language>
+    <copyright>© 2026</copyright>
+    <description>Sofia, una barista di Milano, ti racconta una storia assurda dal mondo ogni volta che esce un episodio. In italiano semplice (livello A1), come un messaggio vocale di un'amica. Non lezioni: storie. Tecnologia, cultura, gente strana, momenti che ti fanno dire 'aspetta, davvero?'.</description>
+    <lastBuildDate>Wed, 13 May 2026 21:54:44 +0900</lastBuildDate>
+    <generator>italiano-podcast/build_feed.py</generator>
+    <itunes:author>Sofia</itunes:author>
+    <itunes:summary>Sofia, una barista di Milano, ti racconta una storia assurda dal mondo ogni volta che esce un episodio. In italiano semplice (livello A1), come un messaggio vocale di un'amica. Non lezioni: storie. Tecnologia, cultura, gente strana, momenti che ti fanno dire 'aspetta, davvero?'.</itunes:summary>
+    <itunes:subtitle>Un caffè di storie strane dal mondo, in italiano semplice.</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>FILL_ME_IN</itunes:name>
+      <itunes:email>FILL_ME_IN@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Il robotaxi e la pozzanghera</title>
+      <description>Waymo deve richiamare 3.791 robotaxi perché le auto guidano su strade piene d’acqua. È una storia perfetta per te: tecnologia, errore umano, ironia secca, e una domanda semplice — quando l’AI è brava, ma non capisce una pozzanghera?
+
+Spunto: Waymo recalls robotaxis for driving on flooded roads</description>
+      <content:encoded><![CDATA[<p>Waymo deve richiamare 3.791 robotaxi perché le auto guidano su strade piene d’acqua. È una storia perfetta per te: tecnologia, errore umano, ironia secca, e una domanda semplice — quando l’AI è brava, ma non capisce una pozzanghera?</p>
+<p><em>Spunto:</em> Waymo recalls robotaxis for driving on flooded roads</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi">The Verge</a></p>]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 23:34:37 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-233437--il-robotaxi-e-la-pozzanghera.mp3" length="7420154" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260512-233437</guid>
+      <itunes:title>Il robotaxi e la pozzanghera</itunes:title>
+      <itunes:author>Sofia</itunes:author>
+      <itunes:duration>07:44</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    </item>
+    <item>
+      <title>Il tagliaerba con la porta</title>
+      <description>Un robot tagliaerba Yarbo investe un giornalista, e poi c’è un problema: una porta segreta su Internet. Per te è perfetto: tecnologia utile, errore assurdo, e una domanda chiara: chi controlla davvero la macchina?
+
+Spunto: Yarbo says it will remove the intentional backdoor from its robot lawn mower</description>
+      <content:encoded><![CDATA[<p>Un robot tagliaerba Yarbo investe un giornalista, e poi c’è un problema: una porta segreta su Internet. Per te è perfetto: tecnologia utile, errore assurdo, e una domanda chiara: chi controlla davvero la macchina?</p>
+<p><em>Spunto:</em> Yarbo says it will remove the intentional backdoor from its robot lawn mower</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor">The Verge</a></p>]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 08:42:21 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-084221--il-tagliaerba-con-la-porta.mp3" length="7407096" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260512-084221</guid>
+      <itunes:title>Il tagliaerba con la porta</itunes:title>
+      <itunes:author>Sofia</itunes:author>
+      <itunes:duration>07:43</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    </item>
+    <item>
+      <title>La porta nel prato</title>
+      <description>Un robot tagliaerba Yarbo può essere controllato da lontano, e ora l’azienda dice: basta, togliamo la porta segreta. È perfetto per te: tecnologia, errore assurdo, e una domanda molto pratica—chi controlla davvero la macchina?
+
+Spunto: Yarbo says it will remove the intentional backdoor from its robot lawn mower</description>
+      <content:encoded><![CDATA[<p>Un robot tagliaerba Yarbo può essere controllato da lontano, e ora l’azienda dice: basta, togliamo la porta segreta. È perfetto per te: tecnologia, errore assurdo, e una domanda molto pratica—chi controlla davvero la macchina?</p>
+<p><em>Spunto:</em> Yarbo says it will remove the intentional backdoor from its robot lawn mower</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor">The Verge</a></p>]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 08:37:40 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-083740--la-porta-nel-prato.mp3" length="7313008" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260512-083740</guid>
+      <itunes:title>La porta nel prato</itunes:title>
+      <itunes:author>Sofia</itunes:author>
+      <itunes:duration>07:37</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    </item>
+    <item>
+      <title>Brera alle Sei</title>
+      <description>A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino
+
+Spunto: A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</description>
+      <content:encoded><![CDATA[<p>A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</p>
+<p><em>Spunto:</em> A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</p>
+<p><em>Fonte:</em> (forced)</p>]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 01:11:37 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-011137--brera-alle-sei.mp3" length="8139756" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260512-011137</guid>
+      <itunes:title>Brera alle Sei</itunes:title>
+      <itunes:author>Sofia</itunes:author>
+      <itunes:duration>08:29</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    </item>
+    <item>
+      <title>Spaghetti Senza Chitarre</title>
+      <description>Nel 1979 gli Skiantos, band punk italiana, salgono sul palco del Bologna Rock festival con una cucina, fanno bollire gli spaghetti e se li mangiano senza suonare una nota. E quando il pubblico protesta, il cantante li liquida dicendo che sono troppo stupidi per capire l’arte d’avanguardia.
+
+Spunto: TIL that in 1979, Italian punk band Skiantos performed at the Bologna Rock festival by bringing a kitchen on stage, boiling spaghetti, and eating it, without playing anything. When the audience protested, the lead singer told them they were too stupid to appreciate avant-garde art</description>
+      <content:encoded><![CDATA[<p>Nel 1979 gli Skiantos, band punk italiana, salgono sul palco del Bologna Rock festival con una cucina, fanno bollire gli spaghetti e se li mangiano senza suonare una nota. E quando il pubblico protesta, il cantante li liquida dicendo che sono troppo stupidi per capire l’arte d’avanguardia.</p>
+<p><em>Spunto:</em> TIL that in 1979, Italian punk band Skiantos performed at the Bologna Rock festival by bringing a kitchen on stage, boiling spaghetti, and eating it, without playing anything. When the audience protested, the lead singer told them they were too stupid to appreciate avant-garde art</p>
+<p><em>Fonte:</em> <a href="https://www.reddit.com/r/todayilearned/comments/1t9yznz/til_that_in_1979_italian_punk_band_skiantos/">r/todayilearned</a></p>]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 00:59:25 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-005925--spaghetti-senza-chitarre.mp3" length="8722678" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260512-005925</guid>
+      <itunes:title>Spaghetti Senza Chitarre</itunes:title>
+      <itunes:author>Sofia</itunes:author>
+      <itunes:duration>09:05</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
