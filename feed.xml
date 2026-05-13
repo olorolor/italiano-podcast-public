@@ -5,17 +5,17 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>Storie con Sofia</title>
+    <title>Cronache da Seul</title>
     <link>https://olorolor.github.io/italiano-podcast-public</link>
     <atom:link href="https://olorolor.github.io/italiano-podcast-public/feed.xml" rel="self" type="application/rss+xml"/>
     <language>it</language>
     <copyright>© 2026</copyright>
-    <description>Sofia, una barista di Milano, ti racconta una storia assurda dal mondo ogni volta che esce un episodio. In italiano semplice (livello A1), come un messaggio vocale di un'amica. Non lezioni: storie. Tecnologia, cultura, gente strana, momenti che ti fanno dire 'aspetta, davvero?'.</description>
-    <lastBuildDate>Wed, 13 May 2026 21:54:44 +0900</lastBuildDate>
+    <description>Teo è coreano, vive a Seul, lavora in ufficio. Il suo italiano è fluente ma non nativo — l'ha costruito anno per anno, come te. Ogni episodio è un messaggio vocale a un amico: una storia assurda dal mondo, raccontata in italiano semplice (livello A1), con ironia secca e zero tono da professore. Tecnologia, cultura, contraddizioni, storie di persone ostinate — quello che fa dire 'aspetta, davvero?' anche dall'altra parte del pianeta.</description>
+    <lastBuildDate>Thu, 14 May 2026 03:56:34 +0900</lastBuildDate>
     <generator>italiano-podcast/build_feed.py</generator>
-    <itunes:author>Sofia</itunes:author>
-    <itunes:summary>Sofia, una barista di Milano, ti racconta una storia assurda dal mondo ogni volta che esce un episodio. In italiano semplice (livello A1), come un messaggio vocale di un'amica. Non lezioni: storie. Tecnologia, cultura, gente strana, momenti che ti fanno dire 'aspetta, davvero?'.</itunes:summary>
-    <itunes:subtitle>Un caffè di storie strane dal mondo, in italiano semplice.</itunes:subtitle>
+    <itunes:author>Teo</itunes:author>
+    <itunes:summary>Teo è coreano, vive a Seul, lavora in ufficio. Il suo italiano è fluente ma non nativo — l'ha costruito anno per anno, come te. Ogni episodio è un messaggio vocale a un amico: una storia assurda dal mondo, raccontata in italiano semplice (livello A1), con ironia secca e zero tono da professore. Tecnologia, cultura, contraddizioni, storie di persone ostinate — quello che fa dire 'aspetta, davvero?' anche dall'altra parte del pianeta.</itunes:summary>
+    <itunes:subtitle>Il mondo visto da una scrivania a Seul, in italiano semplice.</itunes:subtitle>
     <itunes:owner>
       <itunes:name>FILL_ME_IN</itunes:name>
       <itunes:email>FILL_ME_IN@example.com</itunes:email>
@@ -27,95 +27,95 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Il robotaxi e la pozzanghera</title>
-      <description>Waymo deve richiamare 3.791 robotaxi perché le auto guidano su strade piene d’acqua. È una storia perfetta per te: tecnologia, errore umano, ironia secca, e una domanda semplice — quando l’AI è brava, ma non capisce una pozzanghera?
+      <title>La chat invisibile</title>
+      <description>Mark Zuckerberg dice: la nuova chat Meta AI è “completamente privata” e non salva le conversazioni. Per te c’è il punto perfetto: AI, fiducia, privacy, e una grande azienda che chiede di essere creduta. Che comodo, ovviamente.
 
-Spunto: Waymo recalls robotaxis for driving on flooded roads</description>
-      <content:encoded><![CDATA[<p>Waymo deve richiamare 3.791 robotaxi perché le auto guidano su strade piene d’acqua. È una storia perfetta per te: tecnologia, errore umano, ironia secca, e una domanda semplice — quando l’AI è brava, ma non capisce una pozzanghera?</p>
-<p><em>Spunto:</em> Waymo recalls robotaxis for driving on flooded roads</p>
-<p><em>Fonte:</em> <a href="https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi">The Verge</a></p>]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 23:34:37 +0900</pubDate>
-      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-233437--il-robotaxi-e-la-pozzanghera.mp3" length="7420154" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep-20260512-233437</guid>
-      <itunes:title>Il robotaxi e la pozzanghera</itunes:title>
-      <itunes:author>Sofia</itunes:author>
-      <itunes:duration>07:44</itunes:duration>
+Spunto: Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</description>
+      <content:encoded><![CDATA[<p>Mark Zuckerberg dice: la nuova chat Meta AI è “completamente privata” e non salva le conversazioni. Per te c’è il punto perfetto: AI, fiducia, privacy, e una grande azienda che chiede di essere creduta. Che comodo, ovviamente.</p>
+<p><em>Spunto:</em> Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats">The Verge</a></p>]]></content:encoded>
+      <pubDate>Thu, 14 May 2026 03:24:53 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260514-032453--la-chat-invisibile.mp3" length="6432502" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260514-032453</guid>
+      <itunes:title>La chat invisibile</itunes:title>
+      <itunes:author>Teo</itunes:author>
+      <itunes:duration>06:42</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
     </item>
     <item>
-      <title>Il tagliaerba con la porta</title>
-      <description>Un robot tagliaerba Yarbo investe un giornalista, e poi c’è un problema: una porta segreta su Internet. Per te è perfetto: tecnologia utile, errore assurdo, e una domanda chiara: chi controlla davvero la macchina?
+      <title>Fidati, È Incognito</title>
+      <description>Mark Zuckerberg dice: Meta AI ha una chat “completamente privata”, senza log sul server. Per te è perfetto: AI utile, promessa enorme, e l’ironia secca di Meta che dice “fidati”.
 
-Spunto: Yarbo says it will remove the intentional backdoor from its robot lawn mower</description>
-      <content:encoded><![CDATA[<p>Un robot tagliaerba Yarbo investe un giornalista, e poi c’è un problema: una porta segreta su Internet. Per te è perfetto: tecnologia utile, errore assurdo, e una domanda chiara: chi controlla davvero la macchina?</p>
-<p><em>Spunto:</em> Yarbo says it will remove the intentional backdoor from its robot lawn mower</p>
-<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor">The Verge</a></p>]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 08:42:21 +0900</pubDate>
-      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-084221--il-tagliaerba-con-la-porta.mp3" length="7407096" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep-20260512-084221</guid>
-      <itunes:title>Il tagliaerba con la porta</itunes:title>
-      <itunes:author>Sofia</itunes:author>
-      <itunes:duration>07:43</itunes:duration>
+Spunto: Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</description>
+      <content:encoded><![CDATA[<p>Mark Zuckerberg dice: Meta AI ha una chat “completamente privata”, senza log sul server. Per te è perfetto: AI utile, promessa enorme, e l’ironia secca di Meta che dice “fidati”.</p>
+<p><em>Spunto:</em> Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats">The Verge</a></p>]]></content:encoded>
+      <pubDate>Thu, 14 May 2026 03:06:57 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260514-030657--fidati-è-incognito.mp3" length="6909816" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260514-030657</guid>
+      <itunes:title>Fidati, È Incognito</itunes:title>
+      <itunes:author>Teo</itunes:author>
+      <itunes:duration>07:12</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
     </item>
     <item>
-      <title>La porta nel prato</title>
-      <description>Un robot tagliaerba Yarbo può essere controllato da lontano, e ora l’azienda dice: basta, togliamo la porta segreta. È perfetto per te: tecnologia, errore assurdo, e una domanda molto pratica—chi controlla davvero la macchina?
+      <title>La Chat Senza Ombra</title>
+      <description>Mark Zuckerberg dice: ora Meta AI ha una chat privata, senza memoria sui server. Per te è perfetto: AI, privacy, e la solita promessa tech che suona quasi troppo pulita.
 
-Spunto: Yarbo says it will remove the intentional backdoor from its robot lawn mower</description>
-      <content:encoded><![CDATA[<p>Un robot tagliaerba Yarbo può essere controllato da lontano, e ora l’azienda dice: basta, togliamo la porta segreta. È perfetto per te: tecnologia, errore assurdo, e una domanda molto pratica—chi controlla davvero la macchina?</p>
-<p><em>Spunto:</em> Yarbo says it will remove the intentional backdoor from its robot lawn mower</p>
-<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor">The Verge</a></p>]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 08:37:40 +0900</pubDate>
-      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-083740--la-porta-nel-prato.mp3" length="7313008" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep-20260512-083740</guid>
-      <itunes:title>La porta nel prato</itunes:title>
-      <itunes:author>Sofia</itunes:author>
-      <itunes:duration>07:37</itunes:duration>
+Spunto: Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</description>
+      <content:encoded><![CDATA[<p>Mark Zuckerberg dice: ora Meta AI ha una chat privata, senza memoria sui server. Per te è perfetto: AI, privacy, e la solita promessa tech che suona quasi troppo pulita.</p>
+<p><em>Spunto:</em> Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats">The Verge</a></p>]]></content:encoded>
+      <pubDate>Thu, 14 May 2026 02:54:16 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260514-025416--la-chat-senza-ombra.mp3" length="7178999" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260514-025416</guid>
+      <itunes:title>La Chat Senza Ombra</itunes:title>
+      <itunes:author>Teo</itunes:author>
+      <itunes:duration>07:29</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
     </item>
     <item>
-      <title>Brera alle Sei</title>
-      <description>A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino
+      <title>La Chat Senza Memoria</title>
+      <description>Mark Zuckerberg dice: ora Meta AI ha una chat “completamente privata”, senza log sui server. Per te è perfetta: AI, privacy, e la solita domanda secca — possiamo fidarci quando una grande azienda dice “tranquillo”?
 
-Spunto: A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</description>
-      <content:encoded><![CDATA[<p>A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</p>
-<p><em>Spunto:</em> A Milano un panettiere coreano ha aperto una panetteria a Brera dove vende croissant ripieni al kimchi e galette al gochujang, e i milanesi fanno la fila dalle sei del mattino</p>
-<p><em>Fonte:</em> (forced)</p>]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 01:11:37 +0900</pubDate>
-      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-011137--brera-alle-sei.mp3" length="8139756" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep-20260512-011137</guid>
-      <itunes:title>Brera alle Sei</itunes:title>
-      <itunes:author>Sofia</itunes:author>
-      <itunes:duration>08:29</itunes:duration>
+Spunto: Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</description>
+      <content:encoded><![CDATA[<p>Mark Zuckerberg dice: ora Meta AI ha una chat “completamente privata”, senza log sui server. Per te è perfetta: AI, privacy, e la solita domanda secca — possiamo fidarci quando una grande azienda dice “tranquillo”?</p>
+<p><em>Spunto:</em> Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats">The Verge</a></p>]]></content:encoded>
+      <pubDate>Thu, 14 May 2026 02:39:14 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260514-023914--la-chat-senza-memoria.mp3" length="7632889" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260514-023914</guid>
+      <itunes:title>La Chat Senza Memoria</itunes:title>
+      <itunes:author>Teo</itunes:author>
+      <itunes:duration>07:57</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://olorolor.github.io/italiano-podcast-public/cover.jpg"/>
     </item>
     <item>
-      <title>Spaghetti Senza Chitarre</title>
-      <description>Nel 1979 gli Skiantos, band punk italiana, salgono sul palco del Bologna Rock festival con una cucina, fanno bollire gli spaghetti e se li mangiano senza suonare una nota. E quando il pubblico protesta, il cantante li liquida dicendo che sono troppo stupidi per capire l’arte d’avanguardia.
+      <title>Il principio costa caro</title>
+      <description>Elon Musk porta Sam Altman in tribunale: dice che OpenAI ha lasciato la missione per il profitto. Per te è perfetto: AI, ambizione, soldi, e una domanda secca — il principio vale anche quando fa male?
 
-Spunto: TIL that in 1979, Italian punk band Skiantos performed at the Bologna Rock festival by bringing a kitchen on stage, boiling spaghetti, and eating it, without playing anything. When the audience protested, the lead singer told them they were too stupid to appreciate avant-garde art</description>
-      <content:encoded><![CDATA[<p>Nel 1979 gli Skiantos, band punk italiana, salgono sul palco del Bologna Rock festival con una cucina, fanno bollire gli spaghetti e se li mangiano senza suonare una nota. E quando il pubblico protesta, il cantante li liquida dicendo che sono troppo stupidi per capire l’arte d’avanguardia.</p>
-<p><em>Spunto:</em> TIL that in 1979, Italian punk band Skiantos performed at the Bologna Rock festival by bringing a kitchen on stage, boiling spaghetti, and eating it, without playing anything. When the audience protested, the lead singer told them they were too stupid to appreciate avant-garde art</p>
-<p><em>Fonte:</em> <a href="https://www.reddit.com/r/todayilearned/comments/1t9yznz/til_that_in_1979_italian_punk_band_skiantos/">r/todayilearned</a></p>]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 00:59:25 +0900</pubDate>
-      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260512-005925--spaghetti-senza-chitarre.mp3" length="8722678" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep-20260512-005925</guid>
-      <itunes:title>Spaghetti Senza Chitarre</itunes:title>
-      <itunes:author>Sofia</itunes:author>
-      <itunes:duration>09:05</itunes:duration>
+Spunto: Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</description>
+      <content:encoded><![CDATA[<p>Elon Musk porta Sam Altman in tribunale: dice che OpenAI ha lasciato la missione per il profitto. Per te è perfetto: AI, ambizione, soldi, e una domanda secca — il principio vale anche quando fa male?</p>
+<p><em>Spunto:</em> Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</p>
+<p><em>Fonte:</em> <a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit">The Verge</a></p>]]></content:encoded>
+      <pubDate>Thu, 14 May 2026 02:05:57 +0900</pubDate>
+      <enclosure url="https://olorolor.github.io/italiano-podcast-public/mp3/ep-20260514-020557--il-principio-costa-caro.mp3" length="6814203" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-20260514-020557</guid>
+      <itunes:title>Il principio costa caro</itunes:title>
+      <itunes:author>Teo</itunes:author>
+      <itunes:duration>07:06</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
